@@ -1,0 +1,1 @@
+Get-WindowsUpdate -KBArticleID "KB2267602","KB4052623" -Install -AcceptAll
